@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz' : 'w82ionmJ', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 global.self_mode = false
@@ -16,21 +16,21 @@ global.autobio = true
 global.msg_connected = false
 global.user_register = false
 global.anti_delete = false
-global.anticall = false
+global.anticall = true
 global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "62887435047326"
-global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.botname = "Alphabot"
+global.ownerNumberr = "6283171382342"
+global.ownerbot = ['6283171382342@s.whatsapp.net'] // .owner
+global.ownername = "ᴹᴿ᭄ SumantoOfcོ ×፝֟͜×"
+global.botname = "Anya - 083171382342"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.fake = "「  Anya  」\nCreated By ᴹᴿ᭄ SumantoOfcོ ×፝֟͜×"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
@@ -38,7 +38,7 @@ global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 ['document', 'troli', 'troli2', 'katalog', 'katalog2', 'list', 'location', 'image']
 
 */
-global.typeMenu = 'document'
+global.typeMenu = 'location'
 
 //foto menu size maks 50kb
 global.allmenu = 'https://telegra.ph/file/89ca848162fbe7c009aa5.jpg'
